@@ -1,7 +1,9 @@
 Damg7245-assignment1
 ==============================
 
-A short description of the project.
+“WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
+
+Contribution: member1: 50%  member2: 50% 
 
 Project Organization
 ------------
